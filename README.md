@@ -1,2 +1,2 @@
-# Projects
-This repository houses all of Christopher Berry's programming works and projects.
+# Project Archives
+This repo houses projects archived from my other devices.
